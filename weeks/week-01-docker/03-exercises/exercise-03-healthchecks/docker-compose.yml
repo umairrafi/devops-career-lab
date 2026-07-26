@@ -1,0 +1,16 @@
+services:
+  api:
+    build: ./api
+    ports:
+      - "5000:5000"
+    depends_on:
+      - db
+    # TODO: add restart policy, health condition on db
+
+  db:
+    image: postgres:16-alpine
+    environment:
+      POSTGRES_USER: app
+      POSTGRES_PASSWORD: secret
+      POSTGRES_DB: appdb
+    # TODO: add healthcheck, volume, no host port exposure
