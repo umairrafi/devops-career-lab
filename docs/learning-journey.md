@@ -29,6 +29,17 @@ Track your weekly progress here. Copy the template for each week.
 
 ---
 
-## Week 2 — Terraform
+## Week 7 — AI Agents (after Docker + Terraform + GHA)
 
-*(Template — fill when you start Week 2)*
+**Dates:** ___________ to ___________
+
+### Goals
+- [ ] Complete AI Agents Track Phase 1–2 resources
+- [ ] Build TaskFlow AI Agent v1 (ReAct + tools)
+- [ ] Read ReAct paper and implement loop
+- [ ] Start agentic coding habit with Cursor
+
+### Resources tracker
+See [tracks/ai-agents/RESOURCE-MAP.md](../tracks/ai-agents/RESOURCE-MAP.md)
+
+---

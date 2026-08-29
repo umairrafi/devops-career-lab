@@ -31,7 +31,9 @@ week-XX-topic/
 | **Exercises** | Day 4–5 | Solve problems without peeking at solutions |
 | **Capstone** | Day 5–7 | Build the week project, push to Git, write README |
 
-## 12-Week Roadmap
+## 16-Week Master Roadmap
+
+### Foundation (Weeks 1–6) — Platform & Full Stack
 
 | Week | Topic | Capstone Project |
 |------|-------|------------------|
@@ -41,12 +43,35 @@ week-XX-topic/
 | **4** | Kubernetes basics | Deploy TaskFlow to EKS/local k3s |
 | **5** | Next.js + TypeScript | TaskFlow dashboard frontend |
 | **6** | System design | Architecture docs + ADRs for TaskFlow |
-| **7** | AI agents | TaskFlow AI assistant (tool use, RAG) |
-| **8** | Observability | Logging, metrics, tracing for TaskFlow |
-| **9** | Security | Hardening, secrets, supply chain |
-| **10** | Integration | End-to-end deploy + demo |
-| **11** | Interview prep | Mock interviews, system design drills |
-| **12** | Job switch | Applications, resume, negotiation |
+
+### AI Agents Track (Weeks 7–10) — Build & Automate
+
+| Week | Topic | Capstone | Resources |
+|------|-------|----------|-----------|
+| **7** | AI agents + ReAct | TaskFlow AI Agent v1 | [50-resource map → Phase 1–2](tracks/ai-agents/RESOURCE-MAP.md) |
+| **8** | RAG + MCP | TaskFlow doc Q&A + MCP server | Phase 3–4 |
+| **9** | Multi-agent + automation | DevOps agent team | Phase 5–6 |
+| **10** | Evals + LLMOps | Agent CI in GitHub Actions | Phase 7 |
+
+👉 **[AI Agents Track overview](tracks/ai-agents/README.md)** — all 50 LinkedIn resources organized  
+👉 **[Automation playbook](tracks/ai-agents/AUTOMATION-PLAYBOOK.md)** — what to automate at work
+
+### Career (Weeks 11–16)
+
+| Week | Topic |
+|------|-------|
+| **11** | Observability (logging, metrics, tracing) |
+| **12** | Security hardening |
+| **13** | End-to-end integration + demo |
+| **14** | Interview prep + system design |
+| **15** | Portfolio + LinkedIn push |
+| **16** | Job switch + negotiation |
+
+---
+
+## Legacy 12-Week View (compact)
+
+Weeks 1–6 same as above · Week 7–10 AI track · Weeks 11–12 interview + job switch (compress 11–16 if time-boxed).
 
 ## Getting Started
 
